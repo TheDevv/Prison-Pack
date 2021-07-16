@@ -1,0 +1,28 @@
+scene=CampOffice
+item=GEAR_PrisonCoat p=3.9454,0.4868,-3.0616 r=0.0000,290.8951,0.0000 c=50
+scene=ConvenienceStoreA
+item=GEAR_PrisonPants p=-1.9292,0.0159,-8.9574 r=0.0000,2.8740,0.0000 c=30
+scene=MountainTownRegion
+item=GEAR_PrisonShirt p=1377.2980,265.1630,1203.0980 r=352.5535,115.2443,10.2504 c=100
+item=GEAR_PrisonPants p=1377.2460,265.2761,1202.6290 r=358.0565,87.8393,12.5021 c=100
+scene=CoastalRegion
+item=GEAR_PrisonCoat p=358.0031,203.2457,1155.1620 r=0.0000,155.0341,0.0000 c=50
+scene=FarmHouseABasement
+item=GEAR_PrisonCoat p=-2.8683,150.0205,1.5820 r=0.0000,6.6927,0.0000 c=80
+scene=CrashMountainRegion
+item=GEAR_PrisonCoat p=927.1700,465.5005,1180.5450 r=357.3989,331.0173,356.9144 c=100
+item=GEAR_PrisonPants p=927.1717,465.4885,1180.0120 r=2.9652,58.5037,357.2625 c=100
+scene=WhalingWarehouseA
+item=GEAR_PrisonShirt p=13.9512,5.8554,17.9868 r=0.0000,64.5448,0.0000 c=100
+item=GEAR_PrisonPants p=13.9397,5.8609,17.2742 r=0.0000,207.3179,0.0000 c=100
+item=GEAR_PrisonCoat p=7.1814,3.0374,-17.7764 r=0.0000,228.4941,0.0000 c=100
+#-------------------- 
+loottable=LockerLocked
+#--------------------
+item=PrisonCoat w=1
+
+#-------------------- 
+loottable=VehicleTrunkLocked
+#--------------------
+item=PrisonPants w=1
+item=PrisonShirt w=1

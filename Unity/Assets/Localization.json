@@ -1,0 +1,20 @@
+﻿{
+    "GAMEPLAY_PrisonPants" : {
+                            "English" : "Prison Pants"
+    },
+    "GAMEPLAY_PrisonPantsDescription" : {
+                            "English" : "Maybe you have a matching shirt."
+    },
+    "GAMEPLAY_PrisonShirt" : {
+                            "English" : "Prison Shirt"
+    },
+    "GAMEPLAY_PrisonShirtDescription" : {
+                            "English" : "Orange looks good on you."
+    },
+    "GAMEPLAY_PrisonCoat" : {
+                            "English" : "Prison Coat"
+    },
+    "GAMEPLAY_PrisonCoatDescription" : {
+                            "English" : "A warm coat to wear behind bars."
+    }
+}
