@@ -1,20 +1,26 @@
 ﻿{
     "GAMEPLAY_PrisonPants" : {
-                            "English" : "Prison Pants"
+                            "English" : "Prison Pants",
+                            "Russian" : "Штаны заключённого"
     },
     "GAMEPLAY_PrisonPantsDescription" : {
                             "English" : "Maybe you have a matching shirt."
+                            "Russian" : "Может быть, у вас есть подходящая рубашка."
     },
     "GAMEPLAY_PrisonShirt" : {
                             "English" : "Prison Shirt"
+                            "Russian" : "Рубашка заключённого"
     },
     "GAMEPLAY_PrisonShirtDescription" : {
                             "English" : "Orange looks good on you."
+                            "Russian" : "Оранжевый цвет вам очень идёт."
     },
     "GAMEPLAY_PrisonCoat" : {
                             "English" : "Prison Coat"
+                            "Russian" : "Пальто заключённого"
     },
     "GAMEPLAY_PrisonCoatDescription" : {
                             "English" : "A warm coat to wear behind bars."
+                            "Russian" : "Тёплое пальто для ношения за решеткой."
     }
 }
