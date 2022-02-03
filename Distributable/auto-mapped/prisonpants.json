@@ -43,14 +43,14 @@
                                 "DrawLayer" : 16,
                                 "ImplementationType" : ""
                             },
-    "ModHarvestableComponent": {
+    "ModHarvestableBehaviour": {
                                 "Audio" : "PLAY_ClothingRepair",
                                 "Minutes" : 20,
                                 "YieldCounts" : [1],
                                 "YieldNames" : ["GEAR_Cloth"],
                                 "RequiredToolNames" : []
                             },
-    "ModRepairableComponent" : {
+    "ModRepairableBehaviour" : {
                                 "Audio" : "PLAY_ClothingRepair",
                                 "Minutes" : 30,
                                 "Condition" : 30,
